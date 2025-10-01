@@ -1,7 +1,5 @@
 # cps_prj1
 
-Here’s a complete, professional-grade **GitHub README** for your capstone project, Shilpa. It’s tailored to showcase your cloud architecture, IoT integration, and ML/AI capabilities—perfect for recruiters, collaborators, or portfolio reviewers.
-
 ---
 
 ```markdown
